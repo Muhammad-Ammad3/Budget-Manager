@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(255, 153, 0);
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color: #003f7d;
+}
+h1:hover{
+    color: white;
+}
+input{
+    height: 30px;
+    width: 210px;
+    border: 3px solid #b4c5e4;
+    font-size: medium;
+    color: rgb(107, 105, 105);
+    border-radius: 20px;
+}
+input:hover{
+    border: 3px solid #3066be;
+    background-color: #b4c5e4;
+}
+
+#spa{
+    font-size: 20px;
+    color: #3066be;
+    font-weight: 700;
+}
+span{
+    font-size: 25px;
+    font-weight: 700;
+    color: #6f97e1;
+}
+#budgetBtn{ 
+    border: 3px solid  #3066be;
+    height: 35px;
+    width: 110px;
+    border-radius: 20px;
+    background-color: #b4c5e4;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+}
+#budgetBtn:hover{
+    background-color: #3066be;
+    border:3px solid #b4c5e4;
+}
+
+.expenseName{
+    font-weight: 900;
+}
+.costName{
+    font-weight: 900;
+    margin-left: 5%;
+}
+.deletedBtn{
+    margin-left: 5%;
+    border: 3px solid  #3066be;
+    height: 35px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: #b4c5e4;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+}
+.deletedBtn:hover{
+    background-color: #3066be;
+    border:3px solid #b4c5e4;
+}
+#expenseBtn{
+    border: 3px solid  #3066be;
+    height: 35px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: #b4c5e4;
+    color: white;
+    font-size: medium;
+    font-weight: 600;
+}
+#expenseBtn:hover{
+    background-color: #3066be;
+    border:3px solid #b4c5e4;
+}
+p{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+P:hover{
+    color: black;
+}
